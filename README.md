@@ -12,14 +12,6 @@
 
 <br>
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/IRGrekov/badges/small)](https://www.codewars.com/users/IRGrekov)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 #### Мой стек:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
