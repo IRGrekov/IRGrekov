@@ -37,12 +37,9 @@
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/IRGrekov/badges/large)](https://www.codewars.com/users/IRGrekov)
 
-<a href="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react">
-  <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react">
-  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=6&layout=compact&theme=react" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
