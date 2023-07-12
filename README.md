@@ -1,3 +1,16 @@
+## Привет всем, меня зовут Роман <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=58a6ff&width=500&height=40&lines=%D0%AF%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20+frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA)](https://git.io/typing-svg)
+
+### Мои приоритеты:
+
+- ✍ Стараюсь писать чистый читабельный код
+- 🚀 Осваиваю новые технологии и фреймворки
+- ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность
+- 🎯 Стремлюсь к работе с настоящими боевыми проектами
+- 🔞 Хочу работать с опытными коллегами
+
+<br>
 <h1 align="center">Hi there, I'm <a href="https://github.com/IRGrekov" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -26,7 +39,21 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+
+### Моя статистика:
+
+[![Codewarrior Profile Badges](https://www.codewars.com/users/IRGrekov/badges/large)](https://www.codewars.com/users/IRGrekov)
+
+<a href="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react">
+  <img  align="center" height="167" src="https://github-readme-stats.vercel.app/api?username=KarpovYuri&show_icons=true&hide_border=trueshow_icons=true&theme=react" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&layout=compact&theme=react">
+  <img align="center" height="167" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpovYuri&langs_count=6&layout=compact&theme=react" />
+</a>
+
+<br>
+<br>
+<br>
