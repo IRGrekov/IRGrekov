@@ -1,4 +1,4 @@
-## Привет всем, меня зовут Роман, я Frontend Developer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/>
+## Привет всем, я Frontend Developer <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="26"/>
 
 ### Мои приоритеты:
 
